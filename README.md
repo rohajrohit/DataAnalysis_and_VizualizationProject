@@ -11,6 +11,13 @@ Data loading and preprocessing.
 Exploratory data analysis (EDA) to understand the distribution of calls over time.
 Visualizations to depict call volume trends, types of calls, and more.
 Identify key insights and findings from the analysis.
+
+### Screenshot
+Here I've attached a screenshot from my project.
+<div align='center'>
+    <img src='download (2).png'>
+</div>
+
 ### Dependencies
 The project relies on the following key dependencies:
 
@@ -41,6 +48,13 @@ Loading and preprocessing financial data.
 Analyzing the performance of bank stocks.
 Visualizing stock prices, returns, and trends.
 Extracting insights related to the financial crisis and stock performance.
+
+### Screenshot
+Here I've attached a screenshot from my project.
+<div align='center'>
+    <img src='download (1).png'>
+</div>
+
 ### Dependencies
 The Finance Data Project relies on the following key dependencies:
 
